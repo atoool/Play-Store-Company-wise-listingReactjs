@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fir-d9861"
+  },
+  "targets": {
+    "fir-d9861": {
+      "hosting": {
+        "fir-d9861": [
+          "./build",
+          "build"
+        ]
+      }
+    }
+  }
+}
